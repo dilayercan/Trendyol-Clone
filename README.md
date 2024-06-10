@@ -20,7 +20,9 @@ Bu proje, HTML ve CSS kullanarak Trendyol web sitesinin bir klonunu oluşturmakt
 3. `index.html` dosyasını tarayıcınızda açın.
 
 ## Ekran Görüntüsü
-![Uploading trendyol.gif…]()
+
+![trendyol](https://github.com/dilayercan/Trendyol-Clone/assets/69506908/bfefacbd-d241-4246-931b-09b58a476680)
+
 
 
 ## İletişim
